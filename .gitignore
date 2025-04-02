@@ -4,3 +4,6 @@
 !*.md
 !.gitignore
 !Makefile
+!.vscode/
+.vscode/*
+!.vscode/*.json
